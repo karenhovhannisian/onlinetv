@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* CSS Document */
+
+.selector{
+    behavior: url(./css/PIE.htc);
+}
+
+* html .clearfix {height: 1%;}
+.clearfix {zoom: 1;}
+
+.top_menu{
+    display: block
+}
+
+.top_menu li{
+    display: inline-block;
+    *display: inline;
+    zoom:1;
+}

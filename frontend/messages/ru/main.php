@@ -1,0 +1,26 @@
+<?php
+     return array(
+         'Home' => 'Главная страница',
+         'About'=>'Մեր մասին',
+         'Contact'=>'Կոնտակտ',
+         'Advertisements'=>'Հայտարարություններ',
+         'Login'=>'Մուտք',
+         'Change language'=>'Փոխել լեզուն',
+         'Logout'=>'Ելք',
+         'Registration'=>'Մարդկանց գրանցում',
+         "Company Registrartion"=>'Կազմակերպության գրանցում',
+         "New advertisement"=>'Նոր հայտարարություն',
+         "Offer"=>'Առաջարկում եմ',
+         "Look for"=>'Փնտրում եմ',
+         "Electronics"=>"Էլեկտրոնիկա",
+         "Computers"=>"Համակարգիչներ",
+         "Mobile Phones"=>"Բջջային հեռախոսներ",
+         "Real estate"=>"Անշարժ գույք",
+         "Houses"=>"Առանձնատներ",
+         "Apartments"=>"Բնակարաններ",
+         "Vehicles"=>"Տրանսպորտ",
+         "Cars"=>"Մեքենաներ",
+         "Boats"=>"Նավեր",
+         "The most viewed advertisements"=>"Ամենաշատ դիտված հայտարարությունները",
+     );
+?>
